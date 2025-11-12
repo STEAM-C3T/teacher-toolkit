@@ -38,16 +38,6 @@ Each module folder contains:
 - [Module 06 — Creative Web Projects](modules/06-creative-web-projects/README.md)
 - [Module 07 — Green STEAM Challenge](modules/07-green-steam-challenge/README.md)
 
-## Cross‑links to DPK
-
-Lesson plans now link directly to the DPK on GitHub using full URLs, for example:
-
-```
-https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/examples/student-survey.html
-```
-
-These open reliably on GitHub and still work when previewed locally.
-
 ## Contributing
 
 - Keep filenames lowercase hyphen‑separated
