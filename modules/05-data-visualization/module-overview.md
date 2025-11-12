@@ -16,9 +16,9 @@
 
 ## Resources (DPK)
 
-- Unit 5.1: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/05-data-visualization/units/unit-5.1-canvas-basics.md
-- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/05-data-visualization/examples/canvas-bar-chart.html
-- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/05-data-visualization/tasks/task-1-visualize-dataset.md
+- Unit 5.1: [Canvas Basics](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/05-data-visualization/units/unit-5.1-canvas-basics.md)
+- Example: [Canvas Bar Chart](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/05-data-visualization/examples/canvas-bar-chart.html)
+- Task: [Visualize Dataset](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/05-data-visualization/tasks/task-1-visualize-dataset.md)
 
 ## Teacher notes
 
