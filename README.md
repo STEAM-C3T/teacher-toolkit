@@ -23,9 +23,20 @@ teacher-toolkit/
 ```
 
 Each module folder contains:
+
 - module-overview.md – outcomes, flow, resources
 - unit-X.Y-lesson-plan.md – lesson plan with differentiation, accessibility, assessment
 - assessment-rubric-0X.md – criteria mapped to DigComp 2.2
+
+## Modules
+
+- [Module 01 — Introduction to the Web](modules/01-introduction-to-the-web/README.md)
+- [Module 02 — HTML Foundations](modules/02-html-foundations/README.md)
+- [Module 03 — CSS Styling & Layout](modules/03-css-styling-layout/README.md)
+- [Module 04 — JavaScript Essentials](modules/04-javascript-essentials/README.md)
+- [Module 05 — Data & Visualization](modules/05-data-visualization/README.md)
+- [Module 06 — Creative Web Projects](modules/06-creative-web-projects/README.md)
+- [Module 07 — Green STEAM Challenge](modules/07-green-steam-challenge/README.md)
 
 ## Cross‑links to DPK
 
@@ -40,6 +51,5 @@ These open reliably on GitHub and still work when previewed locally.
 ## Contributing
 
 - Keep filenames lowercase hyphen‑separated
-- Include metadata (module, unit, author, date)
 - Use inclusive language and provide accessibility notes
 - Update CHANGELOG in this repo when adding modules/units
