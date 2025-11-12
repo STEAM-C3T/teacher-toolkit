@@ -17,9 +17,9 @@
 
 ### Resources (DPK)
 
-- Unit 7.1: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/07-green-steam-challenge/units/unit-7.1-green-mini-app.md
-- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/07-green-steam-challenge/examples/green-mini-app.html
-- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/07-green-steam-challenge/tasks/task-1-sdg-mini-app.md
+- Unit 7.1: [Green Mini App](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/07-green-steam-challenge/units/unit-7.1-green-mini-app.md)
+- Example: [Green Mini App](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/07-green-steam-challenge/examples/green-mini-app.html)
+- Task: [SDG Mini App](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/07-green-steam-challenge/tasks/task-1-sdg-mini-app.md)
 
 ### Teacher notes
 
