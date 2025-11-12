@@ -16,7 +16,7 @@
 
 ## Materials
 
-- DPK Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/units/unit-2.1-building-content.md
+- DPK Unit: [Unit 2.1 — Building Content](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/units/unit-2.1-building-content.md)
 
 ## Differentiation
 

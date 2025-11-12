@@ -16,10 +16,10 @@
 
 ## Resources (DPK)
 
-- Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/units/unit-2.1-building-content.md
-- Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/units/unit-2.2-structuring-for-access.md
-- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/examples/student-survey.html
-- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/tasks/task-1-content-page.md
+- Unit: [Unit 2.1 — Building Content](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/units/unit-2.1-building-content.md)
+- Unit: [Unit 2.2 — Structuring for Access](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/units/unit-2.2-structuring-for-access.md)
+- Example: [Student Survey](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/examples/student-survey.html)
+- Task: [Content Page](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/tasks/task-1-content-page.md)
 
 ## Teacher notes
 
