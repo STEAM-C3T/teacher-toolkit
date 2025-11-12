@@ -17,7 +17,7 @@
 
 ## Materials
 
-- DPK Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/units/unit-1.2-basic-structure.md
+- DPK Unit: [Unit 1.2 — Basic Structure of a Web Page](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/units/unit-1.2-basic-structure.md)
 
 ## Differentiation
 

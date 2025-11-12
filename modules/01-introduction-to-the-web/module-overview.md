@@ -18,10 +18,10 @@
 
 ## Resources (DPK)
 
-- Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/units/unit-1.1-what-is-the-web.md
-- Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/units/unit-1.2-basic-structure.md
-- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/examples/minimal-page.html
-- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/tasks/task-1-first-webpage.md
+- Unit: [Unit 1.1 — What is the Web & How It Works](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/units/unit-1.1-what-is-the-web.md)
+- Unit: [Unit 1.2 — Basic Structure of a Web Page](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/units/unit-1.2-basic-structure.md)
+- Example: [Minimal Page](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/examples/minimal-page.html)
+- Task: [First Webpage](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/tasks/task-1-first-webpage.md)
 
 ## Teacher notes
 
