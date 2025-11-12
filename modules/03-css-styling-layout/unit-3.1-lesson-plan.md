@@ -17,9 +17,9 @@
 
 ## Materials
 
-- DPK Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/units/unit-3.1-styling-basics.md
-- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/examples/style-basics.html
-- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/tasks/task-1-style-a-portfolio.md
+- DPK Unit: [Unit 3.1 — Styling Basics](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/units/unit-3.1-styling-basics.md)
+- Example: [Style Basics](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/examples/style-basics.html)
+- Task: [Style a Portfolio](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/tasks/task-1-style-a-portfolio.md)
 
 ## Differentiation
 

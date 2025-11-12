@@ -17,9 +17,9 @@
 
 ## Materials
 
-- DPK Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/units/unit-3.2-layout-responsive.md
-- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/examples/responsive-layout.html
-- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/tasks/task-2-responsive-layout.md
+- DPK Unit: [Unit 3.2 — Layout & Responsive Design](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/units/unit-3.2-layout-responsive.md)
+- Example: [Responsive Layout](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/examples/responsive-layout.html)
+- Task: [Responsive Layout](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/tasks/task-2-responsive-layout.md)
 
 ## Differentiation
 

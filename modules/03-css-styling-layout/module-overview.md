@@ -16,14 +16,14 @@
 
 ## Resources (DPK)
 
-- Unit 3.1: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/units/unit-3.1-styling-basics.md
-- Unit 3.2: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/units/unit-3.2-layout-responsive.md
+- Unit 3.1: [Styling Basics](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/units/unit-3.1-styling-basics.md)
+- Unit 3.2: [Layout & Responsive Design](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/units/unit-3.2-layout-responsive.md)
 - Examples:
-  - https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/examples/style-basics.html
-  - https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/examples/responsive-layout.html
+  - [Style Basics](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/examples/style-basics.html)
+  - [Responsive Layout](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/examples/responsive-layout.html)
 - Tasks:
-  - https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/tasks/task-1-style-a-portfolio.md
-  - https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/tasks/task-2-responsive-layout.md
+  - [Style a Portfolio](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/tasks/task-1-style-a-portfolio.md)
+  - [Responsive Layout](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/tasks/task-2-responsive-layout.md)
 
 ## Teacher notes
 
