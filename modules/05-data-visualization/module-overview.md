@@ -13,9 +13,9 @@
 4. Independent task; reflect on chart choice.
 
 ## Resources (DPK)
-- Unit 5.1: ../../digital-proficiency-kit/modules/05-data-visualization/units/unit-5.1-canvas-basics.md
-- Example: ../../digital-proficiency-kit/modules/05-data-visualization/examples/canvas-bar-chart.html
-- Task: ../../digital-proficiency-kit/modules/05-data-visualization/tasks/task-1-visualize-dataset.md
+- Unit 5.1: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/05-data-visualization/units/unit-5.1-canvas-basics.md
+- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/05-data-visualization/examples/canvas-bar-chart.html
+- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/05-data-visualization/tasks/task-1-visualize-dataset.md
 
 ## Teacher notes
 - Pair charts with a table for accessibility; consider colour‑blind‑safe palettes.

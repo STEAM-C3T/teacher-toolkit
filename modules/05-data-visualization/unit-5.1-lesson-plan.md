@@ -14,9 +14,9 @@
 - Share (5’): compare readability.
 
 ## Materials
-- DPK Unit: ../../digital-proficiency-kit/modules/05-data-visualization/units/unit-5.1-canvas-basics.md
-- Example: ../../digital-proficiency-kit/modules/05-data-visualization/examples/canvas-bar-chart.html
-- Task: ../../digital-proficiency-kit/modules/05-data-visualization/tasks/task-1-visualize-dataset.md
+- DPK Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/05-data-visualization/units/unit-5.1-canvas-basics.md
+- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/05-data-visualization/examples/canvas-bar-chart.html
+- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/05-data-visualization/tasks/task-1-visualize-dataset.md
 
 ## Differentiation
 - Provide starter code; extension: dual series or gridlines.

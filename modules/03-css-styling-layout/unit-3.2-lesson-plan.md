@@ -14,9 +14,9 @@
 - Share (5’): quick device viewport check.
 
 ## Materials
-- DPK Unit: ../../digital-proficiency-kit/modules/03-css-styling-layout/units/unit-3.2-layout-responsive.md
-- Example: ../../digital-proficiency-kit/modules/03-css-styling-layout/examples/responsive-layout.html
-- Task: ../../digital-proficiency-kit/modules/03-css-styling-layout/tasks/task-2-responsive-layout.md
+- DPK Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/units/unit-3.2-layout-responsive.md
+- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/examples/responsive-layout.html
+- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/tasks/task-2-responsive-layout.md
 
 ## Differentiation
 - Provide a starting HTML structure; extension: add nav/header layout.

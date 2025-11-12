@@ -14,9 +14,9 @@
 - Share (5’): discuss state shape and trade‑offs.
 
 ## Materials
-- DPK Unit: ../../digital-proficiency-kit/modules/04-javascript-essentials/units/unit-4.2-dom-events.md
-- Example: ../../digital-proficiency-kit/modules/04-javascript-essentials/examples/todo-list.html
-- Task: ../../digital-proficiency-kit/modules/04-javascript-essentials/tasks/task-2-dom-events.md
+- DPK Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/units/unit-4.2-dom-events.md
+- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/examples/todo-list.html
+- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/tasks/task-2-dom-events.md
 
 ## Differentiation
 - Provide starter functions; extension: persist to localStorage.

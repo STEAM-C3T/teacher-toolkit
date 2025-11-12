@@ -14,8 +14,8 @@
 - Share (5’): pairs present & reflect.
 
 ## Materials
-- DPK Unit: ../../digital-proficiency-kit/modules/01-introduction-to-the-web/units/unit-1.1-what-is-the-web.md
-- Example: ../../digital-proficiency-kit/modules/01-introduction-to-the-web/examples/minimal-page.html
+- DPK Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/units/unit-1.1-what-is-the-web.md
+- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/examples/minimal-page.html
 
 ## Differentiation
 - Provide a labelled diagram for visual learners; oral explanation variant.

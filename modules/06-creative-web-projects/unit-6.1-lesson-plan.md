@@ -15,9 +15,9 @@
 - Share (5’): gallery and brief captions.
 
 ### Materials
-- DPK Unit: ../../digital-proficiency-kit/modules/06-creative-web-projects/units/unit-6.1-generative-art.md
-- Example: ../../digital-proficiency-kit/modules/06-creative-web-projects/examples/generative-art.html
-- Task: ../../digital-proficiency-kit/modules/06-creative-web-projects/tasks/task-1-creative-poster.md
+- DPK Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/06-creative-web-projects/units/unit-6.1-generative-art.md
+- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/06-creative-web-projects/examples/generative-art.html
+- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/06-creative-web-projects/tasks/task-1-creative-poster.md
 
 ### Differentiation
 - Provide starter template with one control; extension: export still frame.

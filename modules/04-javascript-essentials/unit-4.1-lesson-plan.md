@@ -14,9 +14,9 @@
 - Share (5’): peer test for empty input handling.
 
 ## Materials
-- DPK Unit: ../../digital-proficiency-kit/modules/04-javascript-essentials/units/unit-4.1-js-basics-dom.md
-- Example: ../../digital-proficiency-kit/modules/04-javascript-essentials/examples/dom-interactions.html
-- Task: ../../digital-proficiency-kit/modules/04-javascript-essentials/tasks/task-1-interactive-elements.md
+- DPK Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/units/unit-4.1-js-basics-dom.md
+- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/examples/dom-interactions.html
+- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/tasks/task-1-interactive-elements.md
 
 ## Differentiation
 - Provide starter HTML with IDs; extension: add a second control.

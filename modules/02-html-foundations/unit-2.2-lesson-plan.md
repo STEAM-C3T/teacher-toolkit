@@ -13,8 +13,8 @@
 - Share (5’): gallery walk; accessibility spot‑check.
 
 ## Materials
-- DPK Unit: ../../digital-proficiency-kit/modules/02-html-foundations/units/unit-2.2-structuring-for-access.md
-- Example: ../../digital-proficiency-kit/modules/02-html-foundations/examples/student-survey.html
+- DPK Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/units/unit-2.2-structuring-for-access.md
+- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/examples/student-survey.html
 
 ## Differentiation
 - Starter form with TODOs; challenge: add validation hints.

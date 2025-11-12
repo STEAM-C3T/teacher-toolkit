@@ -14,9 +14,9 @@
 4. Iterate and present.
 
 ### Resources (DPK)
-- Unit 7.1: ../../digital-proficiency-kit/modules/07-green-steam-challenge/units/unit-7.1-green-mini-app.md
-- Example: ../../digital-proficiency-kit/modules/07-green-steam-challenge/examples/green-mini-app.html
-- Task: ../../digital-proficiency-kit/modules/07-green-steam-challenge/tasks/task-1-sdg-mini-app.md
+- Unit 7.1: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/07-green-steam-challenge/units/unit-7.1-green-mini-app.md
+ - Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/07-green-steam-challenge/examples/green-mini-app.html
+ - Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/07-green-steam-challenge/tasks/task-1-sdg-mini-app.md
 
 ### Teacher notes
 - Keep scope small: 1–2 screens; one clear interaction; useful output.

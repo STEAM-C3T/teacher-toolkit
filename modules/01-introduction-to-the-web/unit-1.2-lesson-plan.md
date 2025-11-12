@@ -14,7 +14,7 @@
 - Share (5’): peer feedback on structure.
 
 ## Materials
-- DPK Unit: ../../digital-proficiency-kit/modules/01-introduction-to-the-web/units/unit-1.2-basic-structure.md
+- DPK Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/units/unit-1.2-basic-structure.md
 
 ## Differentiation
 - Provide starter template; challenge task: keyboard navigation check.

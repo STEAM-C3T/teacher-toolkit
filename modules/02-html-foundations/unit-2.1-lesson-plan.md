@@ -13,7 +13,7 @@
 - Share (5’): peer check: alt text & link clarity.
 
 ## Materials
-- DPK Unit: ../../digital-proficiency-kit/modules/02-html-foundations/units/unit-2.1-building-content.md
+- DPK Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/units/unit-2.1-building-content.md
 
 ## Differentiation
 - Provide alt‑text prompts; challenge: use figure/figcaption.

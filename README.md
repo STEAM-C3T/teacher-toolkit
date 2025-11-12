@@ -29,13 +29,13 @@ Each module folder contains:
 
 ## Cross‑links to DPK
 
-Lesson plans link to matching code/examples in the DPK repository. If both repos are cloned side‑by‑side, links like:
+Lesson plans now link directly to the DPK on GitHub using full URLs, for example:
 
 ```
-../../digital-proficiency-kit/modules/02-html-foundations/examples/student-survey.html
+https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/examples/student-survey.html
 ```
 
-will work in VS Code. On GitHub, browse to the DPK repository and follow the same path.
+These open reliably on GitHub and still work when previewed locally.
 
 ## Contributing
 

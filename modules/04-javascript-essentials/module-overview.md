@@ -13,14 +13,14 @@
 4. Independent task; share and reflect.
 
 ## Resources (DPK)
-- Unit 4.1: ../../digital-proficiency-kit/modules/04-javascript-essentials/units/unit-4.1-js-basics-dom.md
-- Unit 4.2: ../../digital-proficiency-kit/modules/04-javascript-essentials/units/unit-4.2-dom-events.md
+- Unit 4.1: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/units/unit-4.1-js-basics-dom.md
+- Unit 4.2: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/units/unit-4.2-dom-events.md
 - Examples:
-  - ../../digital-proficiency-kit/modules/04-javascript-essentials/examples/dom-interactions.html
-  - ../../digital-proficiency-kit/modules/04-javascript-essentials/examples/todo-list.html
+  - https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/examples/dom-interactions.html
+  - https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/examples/todo-list.html
 - Tasks:
-  - ../../digital-proficiency-kit/modules/04-javascript-essentials/tasks/task-1-interactive-elements.md
-  - ../../digital-proficiency-kit/modules/04-javascript-essentials/tasks/task-2-dom-events.md
+  - https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/tasks/task-1-interactive-elements.md
+  - https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/tasks/task-2-dom-events.md
 
 ## Teacher notes
 - Encourage separation of state and view; avoid inline event attributes.

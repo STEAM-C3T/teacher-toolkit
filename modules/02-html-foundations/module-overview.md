@@ -13,10 +13,10 @@
 4. Independent task; share and reflect.
 
 ## Resources (DPK)
-- Unit: ../../digital-proficiency-kit/modules/02-html-foundations/units/unit-2.1-building-content.md
-- Unit: ../../digital-proficiency-kit/modules/02-html-foundations/units/unit-2.2-structuring-for-access.md
-- Example: ../../digital-proficiency-kit/modules/02-html-foundations/examples/student-survey.html
-- Task: ../../digital-proficiency-kit/modules/02-html-foundations/tasks/task-1-content-page.md
+- Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/units/unit-2.1-building-content.md
+- Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/units/unit-2.2-structuring-for-access.md
+- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/examples/student-survey.html
+- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/tasks/task-1-content-page.md
 
 ## Teacher notes
 - Accessibility: heading order, alt text, label–input association.

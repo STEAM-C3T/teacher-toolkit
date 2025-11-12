@@ -14,9 +14,9 @@
 4. Independent polish; share and reflect.
 
 ### Resources (DPK)
-- Unit 6.1: ../../digital-proficiency-kit/modules/06-creative-web-projects/units/unit-6.1-generative-art.md
-- Example: ../../digital-proficiency-kit/modules/06-creative-web-projects/examples/generative-art.html
-- Task: ../../digital-proficiency-kit/modules/06-creative-web-projects/tasks/task-1-creative-poster.md
+- Unit 6.1: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/06-creative-web-projects/units/unit-6.1-generative-art.md
+- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/06-creative-web-projects/examples/generative-art.html
+- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/06-creative-web-projects/tasks/task-1-creative-poster.md
 
 ### Teacher notes
 - Encourage playful exploration with constraints (time, controls, colours).

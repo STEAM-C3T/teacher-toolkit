@@ -14,9 +14,9 @@
 - Share (5’): focus/hover accessibility check.
 
 ## Materials
-- DPK Unit: ../../digital-proficiency-kit/modules/03-css-styling-layout/units/unit-3.1-styling-basics.md
-- Example: ../../digital-proficiency-kit/modules/03-css-styling-layout/examples/style-basics.html
-- Task: ../../digital-proficiency-kit/modules/03-css-styling-layout/tasks/task-1-style-a-portfolio.md
+- DPK Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/units/unit-3.1-styling-basics.md
+- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/examples/style-basics.html
+- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/tasks/task-1-style-a-portfolio.md
 
 ## Differentiation
 - Provide a palette and starter CSS for novices; extension: custom variable theme.

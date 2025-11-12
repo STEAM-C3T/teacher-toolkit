@@ -15,10 +15,10 @@
 5. Share & reflect.
 
 ## Resources (DPK)
-- Unit: ../../digital-proficiency-kit/modules/01-introduction-to-the-web/units/unit-1.1-what-is-the-web.md
-- Unit: ../../digital-proficiency-kit/modules/01-introduction-to-the-web/units/unit-1.2-basic-structure.md
-- Example: ../../digital-proficiency-kit/modules/01-introduction-to-the-web/examples/minimal-page.html
-- Task: ../../digital-proficiency-kit/modules/01-introduction-to-the-web/tasks/task-1-first-webpage.md
+- Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/units/unit-1.1-what-is-the-web.md
+- Unit: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/units/unit-1.2-basic-structure.md
+- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/examples/minimal-page.html
+- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/tasks/task-1-first-webpage.md
 
 ## Teacher notes
 - Accessibility: use semantic landmarks; keep headings in order.

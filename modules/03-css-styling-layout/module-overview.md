@@ -13,14 +13,14 @@
 4. Independent task; share and reflect.
 
 ## Resources (DPK)
-- Unit 3.1: ../../digital-proficiency-kit/modules/03-css-styling-layout/units/unit-3.1-styling-basics.md
-- Unit 3.2: ../../digital-proficiency-kit/modules/03-css-styling-layout/units/unit-3.2-layout-responsive.md
+- Unit 3.1: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/units/unit-3.1-styling-basics.md
+- Unit 3.2: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/units/unit-3.2-layout-responsive.md
 - Examples:
-  - ../../digital-proficiency-kit/modules/03-css-styling-layout/examples/style-basics.html
-  - ../../digital-proficiency-kit/modules/03-css-styling-layout/examples/responsive-layout.html
+  - https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/examples/style-basics.html
+  - https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/examples/responsive-layout.html
 - Tasks:
-  - ../../digital-proficiency-kit/modules/03-css-styling-layout/tasks/task-1-style-a-portfolio.md
-  - ../../digital-proficiency-kit/modules/03-css-styling-layout/tasks/task-2-responsive-layout.md
+  - https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/tasks/task-1-style-a-portfolio.md
+  - https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/tasks/task-2-responsive-layout.md
 
 ## Teacher notes
 - Emphasise keyboard focus styles and contrast checks.
