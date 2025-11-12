@@ -1,0 +1,30 @@
+---
+module: 02
+unit: 2.2
+unit_title: Structuring for Access — Semantics, Forms, Tables
+author: STEAM-C3T
+updated: 2025-11-12
+---
+
+## Outcomes
+- Build a labelled form; present a small dataset in a table.
+
+## Lesson flow
+- Recap (5’): semantics recap.
+- Demo (10’): `<label for>` → input; table sections (thead/tbody).
+- Guided (15’): build a three‑field form.
+- Practice (20’): add a results table (3 rows) with clear headers.
+- Share (5’): gallery walk; accessibility spot‑check.
+
+## Materials
+- DPK Unit: ../../digital-proficiency-kit/modules/02-html-foundations/units/unit-2.2-structuring-for-access.md
+- Example: ../../digital-proficiency-kit/modules/02-html-foundations/examples/student-survey.html
+
+## Differentiation
+- Starter form with TODOs; challenge: add validation hints.
+
+## Accessibility
+- Ensure label–input linkage; meaningful headers; no empty table cells.
+
+## Assessment
+- Rubric: correct labels, sensible inputs, table clarity.
