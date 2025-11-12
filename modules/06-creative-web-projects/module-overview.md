@@ -17,9 +17,9 @@
 
 ### Resources (DPK)
 
-- Unit 6.1: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/06-creative-web-projects/units/unit-6.1-generative-art.md
-- Example: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/06-creative-web-projects/examples/generative-art.html
-- Task: https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/06-creative-web-projects/tasks/task-1-creative-poster.md
+- Unit 6.1: [Generative Art](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/06-creative-web-projects/units/unit-6.1-generative-art.md)
+- Example: [Generative Art](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/06-creative-web-projects/examples/generative-art.html)
+- Task: [Creative Poster](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/06-creative-web-projects/tasks/task-1-creative-poster.md)
 
 ### Teacher notes
 
