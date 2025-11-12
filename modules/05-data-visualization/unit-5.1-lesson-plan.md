@@ -1,0 +1,32 @@
+---
+module: 05
+unit: 5.1
+unit_title: Canvas Basics — Simple Bar Chart
+author: STEAM-C3T
+updated: 2025-11-12
+---
+
+## Outcomes
+- Store datasets in arrays; map values to pixel heights.
+- Label axes/values clearly to aid interpretation.
+
+## Lesson flow
+- Warm‑up (5’): discuss chart types and clarity.
+- Demo (10’): compute max, scale, draw bars.
+- Guided (15’): add value labels and titles.
+- Practice (20’): change dataset and labels.
+- Share (5’): compare readability.
+
+## Materials
+- DPK Unit: ../../digital-proficiency-kit/modules/05-data-visualization/units/unit-5.1-canvas-basics.md
+- Example: ../../digital-proficiency-kit/modules/05-data-visualization/examples/canvas-bar-chart.html
+- Task: ../../digital-proficiency-kit/modules/05-data-visualization/tasks/task-1-visualize-dataset.md
+
+## Differentiation
+- Provide starter code; extension: dual series or gridlines.
+
+## Accessibility
+- Add a companion HTML table; ensure label text is readable.
+
+## Assessment
+- Rubric: correct scaling, legible labels, sensible colour/spacing.
