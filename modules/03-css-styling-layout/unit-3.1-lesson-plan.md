@@ -1,10 +1,6 @@
----
-module: 03
-unit: 3.1
-unit_title: Styling Basics — Selectors, Colour, Typography, Box Model
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 3: CSS Styling & Layout
+
+## Unit 3.1 – Styling Basics — Selectors, Colour, Typography, Box Model
 
 ## Outcomes
 - Use element/class selectors effectively.

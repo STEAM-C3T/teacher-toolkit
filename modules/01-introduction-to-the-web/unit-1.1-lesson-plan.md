@@ -1,10 +1,6 @@
----
-module: 01
-unit: 1.1
-unit_title: What is the Web & How It Works
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 1: Introduction to the Web
+
+## Unit 1.1 – What is the Web & How It Works
 
 ## Outcomes
 - Explain request–response flow.

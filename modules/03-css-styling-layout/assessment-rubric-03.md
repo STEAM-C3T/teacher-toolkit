@@ -1,9 +1,6 @@
----
-module: 03
-title: Assessment Rubric – CSS Styling & Layout
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 3: CSS Styling & Layout
+
+## Assessment Rubric — CSS Styling & Layout
 
 1) Visual hierarchy (Content creation)
 - Emerging: Inconsistent sizes/weights; unclear sections.

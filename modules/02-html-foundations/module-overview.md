@@ -1,9 +1,6 @@
----
-module: 02
-title: HTML Foundations — Module Overview
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 2: HTML Foundations
+
+## Module Overview
 
 ## Learning outcomes (DigComp 2.2)
 - Construct semantic content with headings, lists, links, images.

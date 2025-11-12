@@ -1,9 +1,6 @@
----
-module: 04
-title: Assessment Rubric – JavaScript Essentials
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 4: JavaScript Essentials
+
+## Assessment Rubric — JavaScript Essentials
 
 1) Event handling (Problem solving)
 - Emerging: Inline handlers or fragile logic.

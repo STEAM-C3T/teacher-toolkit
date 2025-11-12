@@ -1,10 +1,6 @@
----
-module: 02
-unit: 2.1
-unit_title: Building Content — Headings, Lists, Links, Images
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 2: HTML Foundations
+
+## Unit 2.1 – Building Content — Headings, Lists, Links, Images
 
 ## Outcomes
 - Use headings (H1–H3), paragraphs, lists, links, images with alt text.

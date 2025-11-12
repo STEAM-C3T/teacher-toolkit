@@ -1,9 +1,6 @@
----
-module: 01
-title: Introduction to the Web — Module Overview
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 1: Introduction to the Web
+
+## Module Overview
 
 ## Learning outcomes (aligned to DigComp 2.2)
 - Describes how the web works (browser–server–response).

@@ -1,10 +1,6 @@
----
-module: 04
-unit: 4.1
-unit_title: JS Basics + DOM — Variables, Events, Manipulation
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 4: JavaScript Essentials
+
+## Unit 4.1 – JS Basics + DOM — Variables, Events, Manipulation
 
 ## Outcomes
 - Use querySelector and addEventListener to connect controls to UI.

@@ -1,9 +1,6 @@
----
-module: 03
-title: CSS Styling & Layout — Module Overview
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 3: CSS Styling & Layout
+
+## Module Overview
 
 ## Learning outcomes (DigComp 2.2)
 - Apply CSS selectors to style content with accessible contrast and typography.

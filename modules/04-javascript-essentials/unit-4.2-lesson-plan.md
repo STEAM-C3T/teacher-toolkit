@@ -1,10 +1,6 @@
----
-module: 04
-unit: 4.2
-unit_title: DOM Events & Dynamic UI — Forms, Lists, State
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 4: JavaScript Essentials
+
+## Unit 4.2 – DOM Events & Dynamic UI — Forms, Lists, State
 
 ## Outcomes
 - Structure small UI logic into functions.

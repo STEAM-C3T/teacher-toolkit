@@ -1,9 +1,6 @@
----
-module: 04
-title: JavaScript Essentials — Module Overview
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 4: JavaScript Essentials
+
+## Module Overview
 
 ## Learning outcomes (DigComp 2.2)
 - Write basic JS to handle user events and update the DOM.

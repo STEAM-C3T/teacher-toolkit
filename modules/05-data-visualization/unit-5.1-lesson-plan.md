@@ -1,10 +1,6 @@
----
-module: 05
-unit: 5.1
-unit_title: Canvas Basics — Simple Bar Chart
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 5: Data & Visualization
+
+## Unit 5.1 – Canvas Basics — Simple Bar Chart
 
 ## Outcomes
 - Store datasets in arrays; map values to pixel heights.

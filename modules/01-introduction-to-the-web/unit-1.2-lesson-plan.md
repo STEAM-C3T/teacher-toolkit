@@ -1,10 +1,6 @@
----
-module: 01
-unit: 1.2
-unit_title: Basic Structure of a Web Page
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 1: Introduction to the Web
+
+## Unit 1.2 – Basic Structure of a Web Page
 
 ## Outcomes
 - Construct a semantic layout with header, nav, main, footer.

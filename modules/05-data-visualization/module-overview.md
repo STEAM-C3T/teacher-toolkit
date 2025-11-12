@@ -1,9 +1,6 @@
----
-module: 05
-title: Data & Visualization — Module Overview
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 5: Data & Visualization
+
+## Module Overview
 
 ## Learning outcomes (DigComp 2.2)
 - Represent small datasets visually with Canvas or SVG.

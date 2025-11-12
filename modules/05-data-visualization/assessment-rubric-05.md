@@ -1,10 +1,8 @@
----
-module: 05
-title: Assessment Rubric — Data & Visualization
-author: STEAM-C3T
-updated: 2025-11-12
-related_unit: 5.1 Canvas Basics — Simple Bar Chart
----
+# Module 5: Data & Visualization
+
+## Assessment Rubric — Data & Visualization
+
+Related unit: 5.1 — Canvas Basics — Simple Bar Chart
 
 ## Competence mapping (DigComp 2.2)
 - 1.2 Evaluating data and information

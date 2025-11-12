@@ -1,9 +1,6 @@
----
-module: 01
-title: Assessment Rubric – Introduction to the Web
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 1: Introduction to the Web
+
+## Assessment Rubric — Introduction to the Web
 
 Criteria (DigComp 2.2 mapping):
 

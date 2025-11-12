@@ -1,9 +1,6 @@
----
-module: 02
-title: Assessment Rubric – HTML Foundations
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 2: HTML Foundations
+
+## Assessment Rubric — HTML Foundations
 
 Criteria
 1) Semantic content (Digital content creation)

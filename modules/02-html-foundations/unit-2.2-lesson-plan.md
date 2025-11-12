@@ -1,10 +1,6 @@
----
-module: 02
-unit: 2.2
-unit_title: Structuring for Access — Semantics, Forms, Tables
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 2: HTML Foundations
+
+## Unit 2.2 – Structuring for Access — Semantics, Forms, Tables
 
 ## Outcomes
 - Build a labelled form; present a small dataset in a table.

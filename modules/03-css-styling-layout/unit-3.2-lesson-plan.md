@@ -1,10 +1,6 @@
----
-module: 03
-unit: 3.2
-unit_title: Layout & Responsive Design — Grid, Flexbox, Media Queries
-author: STEAM-C3T
-updated: 2025-11-12
----
+# Module 3: CSS Styling & Layout
+
+## Unit 3.2 – Layout & Responsive Design — Grid, Flexbox, Media Queries
 
 ## Outcomes
 - Build layouts with CSS Grid and Flexbox.
