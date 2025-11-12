@@ -1,12 +1,10 @@
 # Teacher Toolkit for the Digital Proficiency Kit
 
-This repository hosts teacher-facing materials aligned with the Digital Proficiency Kit (DPK). It includes module overviews, unit lesson plans, and assessment rubrics mapped to DigComp 2.2.
+### _STEAM: From Campus to Classroom, Crafting Tomorrow (STEAM-C3T)_
 
-- Audience: Teachers and facilitators
-- Format: Markdown (printable, easy to adapt)
-- Tech: No build – open and read in any Markdown viewer
+**Erasmus+ Cooperation Partnerships in School Education (KA220-SCH)**
 
----
+Developed by **Tallinn University, Haapsalu College**
 
 ## Overview
 
@@ -24,15 +22,15 @@ The Teacher Toolkit complements the Digital Proficiency Kit with ready-to-use te
 
 ## Toolkit Structure
 
-| Module | Focus | Materials |
-| ------ | ----- | --------- |
-| [1. Introduction to the Web](./modules/01-introduction-to-the-web/README.md) | How the web works, semantic HTML | Overview, lesson plans, rubric |
-| [2. HTML Foundations](./modules/02-html-foundations/README.md) | Content hierarchy, accessibility | Overview, lesson plans, rubric |
-| [3. CSS Styling & Layout](./modules/03-css-styling-layout/README.md) | Typography, colour, responsive design | Overview, lesson plans, rubric |
-| [4. JavaScript Essentials](./modules/04-javascript-essentials/README.md) | Variables, events, DOM manipulation | Overview, lesson plans, rubric |
-| [5. Data & Visualization](./modules/05-data-visualization/README.md) | Visualising data (Canvas/SVG) | Overview, lesson plan, rubric |
-| [6. Creative Web Projects](./modules/06-creative-web-projects/README.md) | Art and computation | Overview, lesson plan, rubric |
-| [7. Green STEAM Challenge](./modules/07-green-steAM-challenge/README.md) | Sustainable innovation with code | Overview, lesson plan, rubric |
+| Module                                                                       | Focus                                 | Materials                      |
+| ---------------------------------------------------------------------------- | ------------------------------------- | ------------------------------ |
+| [1. Introduction to the Web](./modules/01-introduction-to-the-web/README.md) | How the web works, semantic HTML      | Overview, lesson plans, rubric |
+| [2. HTML Foundations](./modules/02-html-foundations/README.md)               | Content hierarchy, accessibility      | Overview, lesson plans, rubric |
+| [3. CSS Styling & Layout](./modules/03-css-styling-layout/README.md)         | Typography, colour, responsive design | Overview, lesson plans, rubric |
+| [4. JavaScript Essentials](./modules/04-javascript-essentials/README.md)     | Variables, events, DOM manipulation   | Overview, lesson plans, rubric |
+| [5. Data & Visualization](./modules/05-data-visualization/README.md)         | Visualising data (Canvas/SVG)         | Overview, lesson plan, rubric  |
+| [6. Creative Web Projects](./modules/06-creative-web-projects/README.md)     | Art and computation                   | Overview, lesson plan, rubric  |
+| [7. Green STEAM Challenge](./modules/07-green-steAM-challenge/README.md)     | Sustainable innovation with code      | Overview, lesson plan, rubric  |
 
 Each module includes:
 
