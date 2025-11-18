@@ -11,4 +11,4 @@ A teacher-facing bundle for a small sustainability-themed mini‑app.
 
 ## Related DPK resources
 
-- DPK module folder: https://github.com/STEAM-C3T/digital-proficiency-kit/tree/main/modules/07-green-steam-challenge
+- [DPK module folder](https://github.com/STEAM-C3T/digital-proficiency-kit/tree/main/modules/07-green-steam-challenge)
