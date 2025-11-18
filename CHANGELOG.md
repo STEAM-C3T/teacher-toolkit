@@ -17,3 +17,8 @@ All notable changes to this project will be documented in this file.
 - docs(module-05): rewrite DPK links to labeled Markdown links (hide raw URLs)
 - docs(module-06): rewrite DPK links to labeled Markdown links (hide raw URLs)
 - docs(module-07): rewrite DPK links to labeled Markdown links (hide raw URLs)
+
+## 2025-11-18
+
+- docs(modules 01–07): expand module-overview.md files with metadata, summary, outcomes, DigComp alignment, detailed sequence & timing, materials/setup, accessibility & inclusion, differentiation, assessment & evidence, and refined teacher notes.
+- docs(modules 01–07): convert remaining raw DPK URLs in per-module README files to descriptive Markdown links.
