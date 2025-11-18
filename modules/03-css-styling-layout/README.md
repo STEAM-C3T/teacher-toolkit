@@ -12,4 +12,4 @@ A teacher-facing bundle for styling fundamentals and responsive layouts.
 
 ## Related DPK resources
 
-- DPK module folder: https://github.com/STEAM-C3T/digital-proficiency-kit/tree/main/modules/03-css-styling-layout
+- [DPK module folder](https://github.com/STEAM-C3T/digital-proficiency-kit/tree/main/modules/03-css-styling-layout)
