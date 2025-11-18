@@ -22,3 +22,5 @@ All notable changes to this project will be documented in this file.
 
 - docs(modules 01–07): expand module-overview.md files with metadata, summary, outcomes, DigComp alignment, detailed sequence & timing, materials/setup, accessibility & inclusion, differentiation, assessment & evidence, and refined teacher notes.
 - docs(modules 01–07): convert remaining raw DPK URLs in per-module README files to descriptive Markdown links.
+- **docs(main README):** add Related Repositories section documenting the three-repository ecosystem (Digital Proficiency Kit, Teacher Toolkit, Learning Materials) with detailed explanation of why Learning Materials exists and how repositories complement each other.
+- **docs(module 01 overview):** add Learning Materials (Classroom-Ready Resources) section with links to module overview deck, Unit 1.1 lesson deck, tutorial, student workbook, and teacher-annotated workbook from the new dpk-learning-materials repository.

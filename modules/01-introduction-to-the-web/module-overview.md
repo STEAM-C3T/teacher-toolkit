@@ -64,8 +64,22 @@ Students learn what happens when a browser requests a page and build a minimal, 
 - Example: [Minimal Page](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/examples/minimal-page.html)
 - Task: [First Webpage](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/tasks/task-1-first-webpage.md)
 
+## Learning Materials (Classroom-Ready Resources)
+
+For **novice teachers** seeking ready-to-use slides, tutorials, and workbooks:
+
+- **[Module 01 Overview Deck](https://github.com/STEAM-C3T/dpk-learning-materials/blob/main/modules/01-introduction-to-the-web/module-deck/module-01-overview-deck.md):** Marp slide deck with learning outcomes, demonstrations, assessment criteria, and detailed speaker notes
+- **Unit 1.1 Materials:**
+  - [Lesson deck](https://github.com/STEAM-C3T/dpk-learning-materials/blob/main/modules/01-introduction-to-the-web/units/1.1-what-is-the-web/unit-1.1-deck.md) (Marp slides for classroom presentation)
+  - [Step-by-step tutorial](https://github.com/STEAM-C3T/dpk-learning-materials/blob/main/modules/01-introduction-to-the-web/units/1.1-what-is-the-web/tutorial/unit-1.1-tutorial.md) (browser DevTools exploration with debugging tips)
+  - [Student workbook](https://github.com/STEAM-C3T/dpk-learning-materials/blob/main/modules/01-introduction-to-the-web/units/1.1-what-is-the-web/workbook/unit-1.1-student-workbook.md) (scaffolded notes and practice)
+  - [Teacher annotated workbook](https://github.com/STEAM-C3T/dpk-learning-materials/blob/main/modules/01-introduction-to-the-web/units/1.1-what-is-the-web/workbook/unit-1.1-teacher-annotated.md) (timing, differentiation, answer keys, misconceptions)
+- **Unit 1.2 Materials:** (In development; structure available)
+
+These materials are specifically designed to reduce lesson preparation time for teachers with little or no programming experience.
+
 ## Teacher Notes
 
 - Accessibility: semantic landmarks, heading order, descriptive links, image alt text.
-- Pedagogy: emphasise “make-and-explain” cycles; keep scope small and visible.
+- Pedagogy: emphasise "make-and-explain" cycles; keep scope small and visible.
 - Assessment: checklist for structure + reflection prompt on choices made.

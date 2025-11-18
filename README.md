@@ -93,6 +93,37 @@ The toolkit emphasizes inclusive, authentic learning:
 
 ---
 
+## Related Repositories
+
+The Teacher Toolkit is part of a three-repository ecosystem:
+
+### **1. [Digital Proficiency Kit](https://github.com/STEAM-C3T/digital-proficiency-kit)**
+
+Runnable code examples, tasks, and student-facing module guides.
+
+### **2. Teacher Toolkit** (this repository)
+
+Lesson plans, assessment rubrics, module overviews, and professional development resources.
+
+### **3. [Learning Materials](https://github.com/STEAM-C3T/dpk-learning-materials)**
+
+Comprehensive instructional materials specifically designed for **novice teachers with little or no programming experience**, including:
+
+- **Marp slide decks** for module overviews and unit lessons (ready to present in class)
+- **Step-by-step tutorials** with code-along examples, common pitfalls, and debugging guidance
+- **Student workbooks** with scaffolded practice, note-taking areas, and self-assessment
+- **Teacher-annotated workbooks** with timing estimates, differentiation strategies, misconception alerts, and answer keys
+
+**Why Learning Materials?**
+While the Teacher Toolkit provides lesson plans and rubrics, the Learning Materials repository offers classroom-ready presentations, detailed tutorials, and workbooks that reduce preparation time for teachers new to web development. These materials complement the lesson plans by providing ready-to-use slides and scaffolded student handouts.
+
+**Navigation:**
+
+- From Teacher Toolkit lesson plans → links to Learning Materials decks and workbooks for immediate classroom use
+- From Learning Materials → links back to Teacher Toolkit for assessment rubrics and module overviews
+
+---
+
 ## Contribution and Collaboration
 
 - Keep filenames lowercase and hyphen‑separated.
