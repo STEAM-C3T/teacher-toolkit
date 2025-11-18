@@ -12,4 +12,4 @@ A teacher-facing bundle for how the web works and minimal semantic structure.
 
 ## Related DPK resources
 
-- DPK module folder: https://github.com/STEAM-C3T/digital-proficiency-kit/tree/main/modules/01-introduction-to-the-web
+- [DPK module folder](https://github.com/STEAM-C3T/digital-proficiency-kit/tree/main/modules/01-introduction-to-the-web)
