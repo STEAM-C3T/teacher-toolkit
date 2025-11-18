@@ -11,4 +11,4 @@ A teacher-facing bundle for simple visualizations with Canvas/SVG and clear labe
 
 ## Related DPK resources
 
-- DPK module folder: https://github.com/STEAM-C3T/digital-proficiency-kit/tree/main/modules/05-data-visualization
+- [DPK module folder](https://github.com/STEAM-C3T/digital-proficiency-kit/tree/main/modules/05-data-visualization)
