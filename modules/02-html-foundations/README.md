@@ -12,4 +12,4 @@ A teacher-facing bundle for building semantic content (headings, lists, links, i
 
 ## Related DPK resources
 
-- DPK module folder: https://github.com/STEAM-C3T/digital-proficiency-kit/tree/main/modules/02-html-foundations
+- [DPK module folder](https://github.com/STEAM-C3T/digital-proficiency-kit/tree/main/modules/02-html-foundations)
