@@ -13,3 +13,7 @@ A teacher-facing bundle for DOM interactions, events, and small UI state.
 ## Related DPK resources
 
 - [DPK module folder](https://github.com/STEAM-C3T/digital-proficiency-kit/tree/main/modules/04-javascript-essentials)
+
+## Related Learning Materials
+
+- [Learning Materials Module 04](https://github.com/STEAM-C3T/dpk-learning-materials/tree/main/modules/04-javascript-essentials) — Classroom-ready slides, tutorials, and workbooks
