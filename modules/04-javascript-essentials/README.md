@@ -1,12 +1,12 @@
 # Module 4: JavaScript Essentials
 
-A teacher-facing bundle for DOM interactions, events, and small UI state.
+A teacher-facing sequence from JavaScript basics to events and stateful interfaces.
 
 ## Files in this module
 
 - Module overview: [module-overview.md](./module-overview.md)
 - Units:
-  - [Unit 4.1 — JS Basics + DOM](./unit-4.1-lesson-plan.md)
+  - [Unit 4.1 — JavaScript Basics and a First Interaction](./unit-4.1-lesson-plan.md)
   - [Unit 4.2 — DOM Events & Dynamic UI](./unit-4.2-lesson-plan.md)
 - Assessment: [assessment-rubric-04.md](./assessment-rubric-04.md)
 

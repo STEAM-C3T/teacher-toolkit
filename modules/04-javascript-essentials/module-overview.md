@@ -6,11 +6,12 @@ Metadata
 
 ## Module Overview
 
-Students add interactivity by listening to events and updating the DOM. They manage simple UI state and render deterministically from that state, with progressive enhancement so content remains usable without JS.
+Students first learn JavaScript fundamentals, then use events and DOM updates to build a small stateful interface. The sequence moves from values, operators, functions, and conditions to a calculator interaction, then to list state and rendering.
 
 ## Learning Outcomes (DigComp 2.2)
 
-- Registers event listeners and updates the DOM based on user actions.
+- Uses variables, simple values, operators, functions, and conditions to solve a small problem.
+- Connects a form event to a calculation function and reports the result accessibly.
 - Manages small UI state and renders from state via a simple render function.
 - Ensures keyboard operability and perceivable updates for dynamic content.
 - Applies progressive enhancement principles.
@@ -23,10 +24,10 @@ Students add interactivity by listening to events and updating the DOM. They man
 
 ## Sequence & Timing (60–120 min)
 
-1. JS basics (15–25): variables, `querySelector`, `addEventListener`.
-2. DOM + state (20–30): render from state; add/remove elements; focus.
-3. Guided practice (15–25): counter + accessibility (visible updates).
-4. Independent task (10–25): small list-based UI (e.g., todo) with filter.
+1. JavaScript basics (20–30): values, variables, arithmetic, functions, and simple conditions.
+2. First interaction (15–20): connect a calculator form to a function with `addEventListener`.
+3. DOM state (20–30): render a list from state; add or update items; preserve focus.
+4. Independent task (10–25): build a small list-based interface (e.g., todo) with a filter.
 5. Share & reflect (5–10): explain event flow and render triggers.
 
 ## Materials & Setup
@@ -50,10 +51,10 @@ Students add interactivity by listening to events and updating the DOM. They man
 
 ## Resources (DPK)
 
-- Unit 4.1: [JS Basics + DOM](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/units/unit-4.1-js-basics-dom.md)
+- Unit 4.1: [JavaScript Basics and a First Interaction](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/units/unit-4.1-js-basics-dom.md)
 - Unit 4.2: [DOM Events & Dynamic UI](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/units/unit-4.2-dom-events.md)
-- Examples: [DOM Interactions](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/examples/dom-interactions.html) • [Todo List](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/examples/todo-list.html)
-- Tasks: [Interactive Elements](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/tasks/task-1-interactive-elements.md) • [DOM Events](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/tasks/task-2-dom-events.md)
+- Examples: [JavaScript Basics Calculator](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/examples/javascript-basics.html) • [Todo List](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/examples/todo-list.html)
+- Tasks: [First JavaScript Calculator](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/tasks/task-1-interactive-elements.md) • [DOM Events](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/tasks/task-2-dom-events.md)
 
 ## Teacher Notes
 

@@ -1,34 +1,51 @@
 # Module 4: JavaScript Essentials
 
-## Unit 4.1 – JS Basics + DOM — Variables, Events, Manipulation
+## Unit 4.1 — JavaScript Basics and a First Interaction
 
-## Outcomes
+### Learning outcomes
 
-- Use querySelector and addEventListener to connect controls to UI.
-- Update textContent and classList safely.
+Students will be able to:
 
-## Lesson flow
+- Declare and update simple values using `const` and `let`.
+- Use arithmetic and basic comparisons.
+- Write and call a function that returns a value.
+- Use `if`/`else` to handle a missing value or invalid calculation.
+- Connect form submission to a function with `addEventListener` and display feedback with `textContent`.
 
-- Warm‑up (5’): discuss interactive elements.
-- Demo (10’): build a name input and dark mode toggle.
-- Guided (15’): implement event handlers and default states.
-- Practice (20’): create a simple interactive card.
-- Share (5’): peer test for empty input handling.
+### Materials
 
-## Materials
+- DPK unit: [JavaScript Basics and a First Interaction](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/units/unit-4.1-js-basics-dom.md)
+- Example: [JavaScript Basics Calculator](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/examples/javascript-basics.html)
+- Task: [First JavaScript Calculator](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/tasks/task-1-interactive-elements.md)
+- Learning materials: [Unit 4.1 decks, tutorial, and workbooks](https://github.com/STEAM-C3T/dpk-learning-materials/tree/main/modules/04-javascript-essentials/units/4.1-javascript-basics)
 
-- DPK Unit: [Unit 4.1 — JS Basics + DOM](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/units/unit-4.1-js-basics-dom.md)
-- Example: [DOM Interactions](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/examples/dom-interactions.html)
-- Task: [Interactive Elements](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/tasks/task-1-interactive-elements.md)
+### Lesson flow
 
-## Differentiation
+1. **Warm-up:** Ask students to predict the result of a short arithmetic expression and explain their reasoning.
+2. **Model:** Use the browser console to declare two values, calculate with an operator, and call a function.
+3. **Guided practice:** Write a function that calculates one operation; use `if`/`else` to handle a special case.
+4. **First interaction:** Connect the calculator form’s `submit` event to the function and show the result as text.
+5. **Practice and check:** Students complete the calculator task. Ask them to explain the inputs, function, and one validation rule.
 
-- Provide starter HTML with IDs; extension: add a second control.
+### Differentiation
 
-## Accessibility
+- **Scaffold:** Provide the HTML form and function signature; students complete the calculation and event handler.
+- **Extension:** Add a second validation rule or one additional operation. Arrays, objects, and loops are optional extensions rather than prerequisites for this lesson.
 
-- Label inputs, use aria-live for dynamic text changes.
+### Accessibility and safe coding
 
-## Assessment
+- Give every input a visible, associated label.
+- Use a semantic form and submit button so keyboard activation works naturally.
+- Put results and error messages in a text element with a polite live announcement.
+- Use `textContent` for output and avoid inline event attributes.
 
-- Checklist: event handling correctness, safe DOM updates, accessible labelling.
+### Assessment evidence
+
+- A working calculator with labeled controls.
+- A named calculation function and an event listener.
+- Clear behavior for missing inputs and division by zero.
+- A short explanation of how an input becomes a result.
+
+### Transition to Unit 4.2
+
+Review functions, conditions, and event listeners. Unit 4.2 applies those ideas to a list whose items are stored in an array and displayed from state.
