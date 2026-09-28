@@ -9,6 +9,8 @@ Lesson-ready guidance for teaching the Digital Proficiency Kit through inclusive
 
 Browse the [full module directory](modules/) to find lesson plans, pacing and differentiation suggestions, and assessment rubrics.
 
+Read the [teacher feedback report](docs/teachers-feedback-report.md) for a classroom-focused review and prioritized recommendations for improving the materials.
+
 1. [Introduction to the Web](modules/01-introduction-to-the-web/README.md)
 2. [HTML Foundations](modules/02-html-foundations/README.md)
 3. [CSS Styling & Layout](modules/03-css-styling-layout/README.md)
