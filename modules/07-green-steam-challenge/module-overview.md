@@ -10,6 +10,8 @@ Students apply their skills to an SDG‑aligned mini‑app with a clear, narrow 
 
 ## Learning Outcomes (DigComp 2.2)
 
+Framework reference: DigComp 2.2.
+
 - Scopes and implements a small app addressing a sustainability/SDG problem.
 - Designs a minimal UI and manages simple state and outputs.
 - Communicates impact and limitations; considers data ethics and privacy.
@@ -18,7 +20,7 @@ Students apply their skills to an SDG‑aligned mini‑app with a clear, narrow 
 
 - Digital content creation (3.1, 3.2)
 - Problem solving (5.3)
-- Safety (privacy, transparency 4.1)
+- Safety (protecting personal data and privacy 4.2; protecting health and well-being 4.3)
 
 ## Sequence & Timing (90–180 min)
 

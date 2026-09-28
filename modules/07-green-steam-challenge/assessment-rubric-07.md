@@ -4,9 +4,11 @@
 
 ### Competence mapping (DigComp 2.2)
 
+Framework reference: DigComp 2.2. Competence 4.2 is **Protecting personal data and privacy**; engaging in citizenship through digital technologies is competence 2.3.
+
 - 3.1 Developing digital content
 - 3.2 Integrating and re‑elaborating
-- 4.2 Engaging in citizenship through digital technologies
+- 4.2 Protecting personal data and privacy
 - 5.1 Problem solving
 - 5.3 Creativity and innovation
 
