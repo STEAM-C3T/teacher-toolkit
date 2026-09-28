@@ -1,2 +1,2 @@
-# Do not commit Copilot or internal guidance files
 .github/copilot-instructions.md
+.DS_Store
