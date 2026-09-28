@@ -11,7 +11,7 @@
 ### Lesson flow
 
 - Warm‑up (5’): brainstorm local sustainability challenges.
-- Demo (10’): “Green Actions Tracker” (checkboxes + score + localStorage).
+- Demo (10’): “Green Actions Tracker” (checkboxes + selected-action count); show opt-in persistence and reset, and explain storage failure fallback.
 - Guided (15’): scaffold app state and a render() function.
 - Practice (20’): implement interaction and polish copy.
 - Share (5’): peer test and capture feedback.
@@ -24,7 +24,7 @@
 
 ### Differentiation
 
-- Provide starter HTML + state object; extension: persistence (localStorage) or a simple chart.
+- Provide starter HTML + state object; extension: optional persistence (localStorage) or a simple chart.
 
 ### Accessibility
 
@@ -32,4 +32,4 @@
 
 ### Assessment
 
-- Rubric: problem clarity, working interaction, basic state handling, and reflection quality.
+- Rubric: problem clarity, working interaction, basic state handling, and reflection quality. Describe counts as activity indicators rather than measured environmental impact.
