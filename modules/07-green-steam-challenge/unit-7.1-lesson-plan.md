@@ -33,3 +33,10 @@
 ### Assessment
 
 - Rubric: problem clarity, working interaction, basic state handling, and reflection quality. Describe counts as activity indicators rather than measured environmental impact.
+
+### Formative check and exit prompt
+
+- **Formative check:** Ask students to state the app’s user goal, test Reset, and identify whether persistence is off or explicitly enabled; if storage is unavailable, verify that the app still works for the session.
+  **Evidence:** Brief peer-test checklist.
+- **Exit prompt:** Explain why the selected-action count does not measure environmental impact, and state how the app handles saved data and reset.
+  **Evidence:** Two-sentence exit note.

@@ -32,5 +32,8 @@
 
 ## Assessment
 
-- Exit ticket: label the three core HTML elements and their purpose.
+- **Formative check:** Students arrange browser, server, and response in the correct order and explain one step.
+  **Evidence:** Annotated three-step flow.
+- **Exit prompt:** Label `<html>`, `<head>`, and `<body>` and state the purpose of each.
+  **Evidence:** Exit ticket.
 - Criteria: correctness of structure; clarity of explanation.

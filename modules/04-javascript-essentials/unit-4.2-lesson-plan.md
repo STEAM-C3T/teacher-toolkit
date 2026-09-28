@@ -32,3 +32,10 @@
 ## Assessment
 
 - Rubric: event handling, state correctness, accessibility practices.
+
+## Formative check and exit prompt
+
+- **Formative check:** Have students add or toggle one todo and trace how the array changes and how the interface updates.
+  **Evidence:** State trace matched to the rendered list.
+- **Exit prompt:** Describe one interaction as a sequence from user action to state change to updated display.
+  **Evidence:** Three-step exit note.

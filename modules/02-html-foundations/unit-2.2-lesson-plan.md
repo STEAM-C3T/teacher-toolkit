@@ -30,3 +30,10 @@
 ## Assessment
 
 - Rubric: correct labels, sensible inputs, table clarity.
+
+## Formative check and exit prompt
+
+- **Formative check:** Ask students to match one form label’s `for` value to its input `id`, then identify a header cell in their table.
+  **Evidence:** Source inspection or a short annotated snippet.
+- **Exit prompt:** Explain how a user can tell what one form field asks for and what one table column represents.
+  **Evidence:** Two brief annotations on the student’s markup.

@@ -2,22 +2,10 @@
 
 ## Assessment Rubric — CSS Styling & Layout
 
-1. Visual hierarchy (Content creation)
+Use the same four performance levels across the module rubrics. Score each criterion from 1–4 and record the evidence observed or collected.
 
-- Emerging: Inconsistent sizes/weights; unclear sections.
-- Proficient: Clear headings, consistent spacing, readable text.
-- Exemplary: Strong hierarchy, coherent rhythm, considered palette.
-
-2. Responsiveness (Problem solving)
-
-- Emerging: Layout breaks; horizontal scroll at 320px.
-- Proficient: Layout adapts at set breakpoints; no horizontal scroll.
-- Exemplary: Smooth scaling; sensible breakpoint choices.
-
-3. Accessibility (Safety & inclusion)
-
-- Emerging: Missing focus styles; low contrast.
-- Proficient: Visible focus; AA contrast where applicable.
-- Exemplary: Keyboard‑friendly navigation; explanations of choices.
-
-Teacher reflection: successes, challenges, next steps.
+| Criterion | Emerging (1) | Developing (2) | Proficient (3) | Advanced (4) | Evidence to collect |
+|---|---|---|---|---|---|
+| Visual hierarchy | Typography or spacing makes sections difficult to distinguish. | Some hierarchy is visible, but spacing or type choices are inconsistent. | Headings, spacing, and readable type establish clear hierarchy. | A coherent type and spacing system improves scanning across the page. | Styled page at desktop and mobile widths. |
+| Responsiveness | Layout overflows or breaks at common widths. | Some adaptation works, but a breakpoint or content case causes difficulty. | Layout adapts at selected breakpoints without horizontal overflow. | Breakpoints suit the content and maintain readability at intermediate widths. | Screenshots or live check at 320px, intermediate, and desktop widths. |
+| Accessibility | Focus is hidden or text contrast/readability is poor. | Some accessible styling exists, with visible gaps. | Focus remains visible and text is readable with suitable contrast. | Keyboard, zoom, and contrast checks lead to explained improvements. | Keyboard/zoom check and contrast review. |

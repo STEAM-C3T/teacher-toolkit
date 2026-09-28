@@ -28,3 +28,10 @@
 ## Assessment
 
 - Rubric: semantic structure, navigation clarity, heading order.
+
+## Formative check and exit prompt
+
+- **Formative check:** Ask students to point out the page’s `<header>` and `<main>` and explain what content belongs in each.
+  **Evidence:** Teacher observation of the page or a brief partner explanation.
+- **Exit prompt:** Name one structural element you used and explain its purpose.
+  **Evidence:** One-sentence exit note or annotated page.

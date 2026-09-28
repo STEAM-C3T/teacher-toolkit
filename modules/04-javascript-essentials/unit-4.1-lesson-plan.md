@@ -46,6 +46,13 @@ Students will be able to:
 - Clear behavior for missing inputs and division by zero.
 - A short explanation of how an input becomes a result.
 
+### Formative check and exit prompt
+
+- **Formative check:** Before running the calculator, ask students to trace one input through the event handler, calculation function, and validation condition, including a missing value or division by zero.
+  **Evidence:** Predicted result or error message, checked against the running calculator.
+- **Exit prompt:** Explain what event starts the calculation and name one special case the program handles.
+  **Evidence:** Brief written or oral response.
+
 ### Transition to Unit 4.2
 
 Review functions, conditions, and event listeners. Unit 4.2 applies those ideas to a list whose items are stored in an array and displayed from state.

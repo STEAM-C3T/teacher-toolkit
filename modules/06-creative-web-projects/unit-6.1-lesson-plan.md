@@ -33,3 +33,10 @@
 ### Assessment
 
 - Rubric: functional controls, coherent visual, clear caption and reflection.
+
+### Formative check and exit prompt
+
+- **Formative check:** Ask a partner to operate a control, use the keyboard to reach the pause control, and check the result with reduced motion enabled or the animation paused.
+  **Evidence:** Peer test notes against these three checks.
+- **Exit prompt:** Name one design choice you made and one accessibility decision that makes the artwork easier to use.
+  **Evidence:** Brief reflection or project caption.

@@ -29,3 +29,10 @@
 ## Assessment
 
 - Checklist: headings order, alt text present/meaningful, link clarity.
+
+## Formative check and exit prompt
+
+- **Formative check:** Show a short list and ask students whether it should use `<ul>` or `<ol>`, then review the alt text on one image in their topic page.
+  **Evidence:** Marked-up example and image description.
+- **Exit prompt:** Choose one image in your page and explain how its alt text communicates its purpose or content.
+  **Evidence:** Exit note or the image element annotated in the source.

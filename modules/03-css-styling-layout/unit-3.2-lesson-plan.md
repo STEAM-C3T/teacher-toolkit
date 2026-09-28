@@ -32,3 +32,10 @@
 ## Assessment
 
 - Rubric: responsive behavior at breakpoints; content readability.
+
+## Formative check and exit prompt
+
+- **Formative check:** Preview the layout at a narrow viewport; ask students to spot overflow and verify that a link or control still has a visible keyboard focus indicator.
+  **Evidence:** Viewport check and a brief checklist or screenshot.
+- **Exit prompt:** Which breakpoint or layout change did you choose, and what problem does it solve?
+  **Evidence:** One-sentence note linked to the tested viewport.

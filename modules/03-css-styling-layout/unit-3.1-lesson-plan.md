@@ -32,3 +32,10 @@
 ## Assessment
 
 - Checklist: hierarchy clear, spacing consistent, focus states present.
+
+## Formative check and exit prompt
+
+- **Formative check:** Give students a simple selector and ask which element it matches; then have them identify one spacing or sizing choice using the box model.
+  **Evidence:** Predicted match and a labelled sketch or inspected style.
+- **Exit prompt:** Name one styling change you made and explain how it helps readability or keyboard use.
+  **Evidence:** Short reflection linked to the page or a screenshot.

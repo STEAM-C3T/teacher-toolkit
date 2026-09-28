@@ -32,3 +32,10 @@
 ## Assessment
 
 - Rubric: correct scaling, legible labels, sensible colour/spacing.
+
+## Formative check and exit prompt
+
+- **Formative check:** Ask students to predict the height of one bar from its value and scale, then compare the chart with its companion HTML table.
+  **Evidence:** Calculation and a checked data value.
+- **Exit prompt:** Explain how your scale maps a value to bar height and name one limitation of the chart.
+  **Evidence:** Brief written response.
