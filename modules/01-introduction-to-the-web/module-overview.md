@@ -74,7 +74,7 @@ For **novice teachers** seeking ready-to-use slides, tutorials, and workbooks:
   - [Step-by-step tutorial](https://github.com/STEAM-C3T/dpk-learning-materials/blob/main/modules/01-introduction-to-the-web/units/1.1-what-is-the-web/tutorial/unit-1.1-tutorial.md) (browser DevTools exploration with debugging tips)
   - [Student workbook](https://github.com/STEAM-C3T/dpk-learning-materials/blob/main/modules/01-introduction-to-the-web/units/1.1-what-is-the-web/workbook/unit-1.1-student-workbook.md) (scaffolded notes and practice)
   - [Teacher annotated workbook](https://github.com/STEAM-C3T/dpk-learning-materials/blob/main/modules/01-introduction-to-the-web/units/1.1-what-is-the-web/workbook/unit-1.1-teacher-annotated.md) (timing, differentiation, answer keys, misconceptions)
-- **Unit 1.2 Materials:** (In development; structure available)
+- **Unit 1.2 Materials:** Deck, tutorial, student workbook, and teacher-annotated workbook are available in the [Learning Materials repository](https://github.com/STEAM-C3T/dpk-learning-materials/tree/main/modules/01-introduction-to-the-web/units/1.2-basic-structure).
 
 These materials are specifically designed to reduce lesson preparation time for teachers with little or no programming experience.
 

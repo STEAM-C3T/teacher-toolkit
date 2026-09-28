@@ -9,11 +9,9 @@
 
 ## Lesson flow
 
-- Recap (5’); semantic tags overview.
-- Demo (10’): header/nav/main/footer; anchors.
-- Guided (15’): add sections for hobbies/subject.
-- Practice (20’): build a one-page “About me”.
-- Share (5’): peer feedback on structure.
+- **Core lesson (55 min):** Recap (5); model the document skeleton and semantic sections (10); guided headings and content (10); build an “About me” page with a paragraph, list, and image with `alt` text (25); check structure and save (5).
+- **Stopping point:** A valid page with a title, semantic sections, meaningful headings, a paragraph, and a list. Add an image with `alt` text during class when time permits or in the follow-up.
+- **Optional follow-up (15–35 min):** Add in-page anchors, run a keyboard navigation check, exchange peer feedback, and complete reflection.
 
 ## Materials
 
