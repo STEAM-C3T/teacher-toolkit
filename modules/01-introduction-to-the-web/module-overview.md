@@ -32,8 +32,13 @@ Students learn what happens when a browser requests a page and build a minimal, 
 
 ## Materials & Setup
 
-- Modern browser (Chromium, Firefox, Safari) with DevTools; text editor (VS Code or web-based).
-- Optional projector to demonstrate View Source / Inspect.
+**Required:** A modern browser. For Unit 1.2 file creation, use an available text editor or an approved browser-based editor.
+
+**Optional:** DevTools/Inspect for Unit 1.1 demonstrations; projector for teacher modeling.
+
+**Before class:** Open the example page; check whether student browsers allow View Source/Inspect; prepare the HTML starter file and a way to open saved `.html` files.
+
+**If restricted:** Unit 1.1 can use the projected teacher demonstration and a guided page-structure worksheet if DevTools are blocked. If students cannot install an editor, use an approved browser-based editor when available. If file editing is unavailable, students can annotate the starter code or pair on a teacher-prepared device, then save/finish later.
 
 ## Accessibility & Inclusion
 

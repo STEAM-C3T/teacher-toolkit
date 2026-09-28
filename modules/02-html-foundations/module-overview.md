@@ -31,7 +31,13 @@ Teachers guide students to structure content semantically and build basic forms 
 
 ## Materials & Setup
 
-- Browser + editor; optional screen reader (VoiceOver/NVDA) for checks.
+**Required:** Modern browser and a text editor or approved browser-based editor to create HTML files.
+
+**Optional:** Screen reader (VoiceOver/NVDA) for accessibility checks; it is not required to complete the core work.
+
+**Before class:** Confirm students can save `.html` files and open them in a browser; prepare starter files and check that required example files are available offline or from the repository.
+
+**If restricted:** Use an approved browser-based editor if installs are blocked. If no editor is available, demonstrate with a teacher-controlled device and have students annotate or plan markup on the provided worksheet; complete file editing when access is available.
 
 ## Accessibility & Inclusion
 

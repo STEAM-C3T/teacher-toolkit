@@ -32,7 +32,13 @@ Framework reference: DigComp 2.2.
 
 ## Materials & Setup
 
-- Browser + editor; optional open datasets (CSV/JSON); simple testing checklist.
+**Required:** Modern browser and a text editor or approved browser-based editor.
+
+**Optional:** Small, non-sensitive open dataset (CSV/JSON); local storage in the example is optional and may be disabled by browser policy.
+
+**Before class:** Open the starter/example, check whether browser storage is allowed if demonstrating persistence, and prepare a version that works without saved data. Use sample data only; do not ask students to enter personal or sensitive information.
+
+**If restricted:** If storage is blocked, use the app for the current session without persistence or discuss the behavior from the code. If installs are blocked, use an approved browser-based editor; if file editing is unavailable, storyboard the interaction and pair on a teacher-prepared device.
 
 ## Accessibility, Ethics & Privacy
 

@@ -32,7 +32,13 @@ Students first learn JavaScript fundamentals, then use events and DOM updates to
 
 ## Materials & Setup
 
-- Browser DevTools console; editor; starter HTML for enhancement.
+**Required:** Modern browser and a text editor or approved browser-based editor; starter HTML for enhancement.
+
+**Optional:** Browser DevTools console for inspecting errors and values.
+
+**Before class:** Open the calculator example and starter files; check whether DevTools are enabled; prepare a projected console demonstration and expected results.
+
+**If restricted:** Students can follow the calculator’s visible output and trace values on paper while the teacher demonstrates the console. If they cannot install an editor, use an approved browser-based editor; if file editing is unavailable, pair on a teacher-prepared device and complete the coding task later.
 
 ## Accessibility & Inclusion
 

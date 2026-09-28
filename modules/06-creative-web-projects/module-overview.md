@@ -29,7 +29,13 @@ Students explore creative coding through a small generative or interactive piece
 
 ## Materials & Setup
 
-- Browser + editor; optional projector for critique rounds.
+**Required:** Modern browser with Canvas and JavaScript support, plus a text editor or approved browser-based editor.
+
+**Optional:** Projector for critique rounds; DevTools for debugging.
+
+**Before class:** Open the starter/example, confirm the pause control works, and prepare a static screenshot or saved image in case live animation is unavailable.
+
+**If restricted:** Use the screenshot and code walkthrough for analysis if the browser blocks local scripts. If DevTools are blocked, model debugging from visible output. If installs are blocked, use an approved browser-based editor; otherwise pair students on a prepared device.
 
 ## Accessibility & Inclusion
 

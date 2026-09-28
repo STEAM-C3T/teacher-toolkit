@@ -29,7 +29,13 @@ Teachers help students establish a visual system (typography, colour, spacing) a
 
 ## Materials & Setup
 
-- Browser + editor; colour contrast tool (built-in DevTools or online checker).
+**Required:** Modern browser and a text editor or approved browser-based editor for HTML/CSS files.
+
+**Optional:** DevTools responsive mode and a colour-contrast checker (built-in, approved offline tool, or online checker when internet access is available).
+
+**Before class:** Open the starter page and stylesheet; check access to responsive mode and the selected contrast checker; prepare screenshots at the target widths as a fallback.
+
+**If restricted:** If DevTools are blocked, resize the browser window and use teacher-provided screenshots or a projected demonstration. If installs are blocked, use an approved browser-based editor; if that is unavailable, have students annotate CSS changes and pair on a teacher-prepared device.
 
 ## Accessibility & Inclusion
 

@@ -29,7 +29,13 @@ Students represent small datasets visually using Canvas or SVG, focusing on mapp
 
 ## Materials & Setup
 
-- Browser + editor; optional spreadsheet for quick dataset prep.
+**Required:** Modern browser with Canvas/SVG support and a text editor or approved browser-based editor.
+
+**Optional:** Spreadsheet for preparing a small dataset; DevTools for debugging.
+
+**Before class:** Open the chart starter file, check that the browser can display it, and prepare the small dataset locally or in the starter code. Keep an HTML table version available for comparison.
+
+**If restricted:** Use the provided example and table for observation if students cannot edit files. If DevTools are blocked, inspect visible output and use a teacher-led debugging demonstration. Use an approved browser-based editor if software installation is restricted.
 
 ## Accessibility & Inclusion
 
