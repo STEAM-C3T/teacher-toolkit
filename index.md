@@ -7,7 +7,7 @@ title: Teacher Toolkit
 
 Lesson-ready guidance for teaching the Digital Proficiency Kit through inclusive, hands-on STEAM learning.
 
-Browse by module to find lesson plans, pacing and differentiation suggestions, and assessment rubrics.
+Browse the [full module directory](modules/) to find lesson plans, pacing and differentiation suggestions, and assessment rubrics.
 
 1. [Introduction to the Web](modules/01-introduction-to-the-web/README.md)
 2. [HTML Foundations](modules/02-html-foundations/README.md)
