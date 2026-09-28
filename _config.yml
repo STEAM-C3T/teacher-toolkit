@@ -1,0 +1,23 @@
+title: Teacher Toolkit
+description: Lesson plans, teaching guidance, and assessment rubrics for the Digital Proficiency Kit.
+url: https://steam-c3t.github.io
+baseurl: /teacher-toolkit
+markdown: kramdown
+plugins:
+  - jekyll-relative-links
+  - jekyll-seo-tag
+relative_links:
+  enabled: true
+  collections: true
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+include:
+  - modules
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - CHANGELOG.md

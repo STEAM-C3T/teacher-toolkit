@@ -1,5 +1,7 @@
 # Teacher Toolkit for the Digital Proficiency Kit
 
+**Browse the published site:** <https://steam-c3t.github.io/teacher-toolkit/>. The original Markdown files remain available in this repository.
+
 ### _STEAM: From Campus to Classroom, Crafting Tomorrow (STEAM-C3T)_
 
 **Erasmus+ Cooperation Partnerships in School Education (KA220-SCH)**
@@ -30,7 +32,7 @@ The Teacher Toolkit complements the Digital Proficiency Kit with ready-to-use te
 | [4. JavaScript Essentials](./modules/04-javascript-essentials/README.md)     | Variables, events, DOM manipulation   | Overview, lesson plans, rubric |
 | [5. Data & Visualization](./modules/05-data-visualization/README.md)         | Visualising data (Canvas/SVG)         | Overview, lesson plan, rubric  |
 | [6. Creative Web Projects](./modules/06-creative-web-projects/README.md)     | Art and computation                   | Overview, lesson plan, rubric  |
-| [7. Green STEAM Challenge](./modules/07-green-steAM-challenge/README.md)     | Sustainable innovation with code      | Overview, lesson plan, rubric  |
+| [7. Green STEAM Challenge](./modules/07-green-steam-challenge/README.md)     | Sustainable innovation with code      | Overview, lesson plan, rubric  |
 
 Each module includes:
 
