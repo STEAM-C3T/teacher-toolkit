@@ -22,13 +22,17 @@ Students learn what happens when a browser requests a page and build a minimal, 
 - Problem solving (5.3)
 - Safety basics (privacy-aware linking, 4.1)
 
-## Sequence & Timing (45–90 min)
+## Sequence & Timing (about 110–145 min across 2–3 lessons)
 
 1. Activate (5–10): “What happens when you type a URL?” Pair-share → whole-class recap.
 2. Demo (10): Show request/response; View Source; semantic landmarks (header, main, footer).
 3. Guided practice (15–25): Build a minimal page together using a starter template.
 4. Independent task (10–25): First webpage with header/main/footer + links, list, image with alt.
 5. Share & reflect (5–10): Gallery walk; two accessibility improvements identified.
+
+## Student Route
+
+Use the [Module 1 student route](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/01-introduction-to-the-web/README.md) as the learner-facing starting point. The sequence is Unit 1.1 tutorial/workbook → Unit 1.2 tutorial/workbook → First Webpage task. Unit 1.1's DevTools exploration is optional; learners without access can use the workbook diagram and teacher demonstration. The final task now includes the list, descriptive link, and image with appropriate alt text introduced in Unit 1.2.
 
 ## Materials & Setup
 
