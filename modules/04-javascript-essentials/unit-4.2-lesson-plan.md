@@ -5,14 +5,14 @@
 ## Outcomes
 
 - Structure small UI logic into functions.
-- Manage simple state and render filtered views.
+- Manage a small array of items and render the current list; filtering is optional.
 
 ## Lesson flow
 
 - Recap (5’): state vs DOM, event flow.
-- Demo (10’): todo list add/toggle/filter; aria‑pressed for filters.
-- Guided (15’): implement filter buttons and render function.
-- Practice (20’): add/remove items; preserve focus.
+- Demo (10’): submit one item; trace event → array update → rendered list.
+- Guided (15’): select the form, input, and list; build the empty state and `renderItems()`, then render one hard-coded array item.
+- Practice (20’): add non-empty items through a form and test blank input. Completion, deletion, and filters are optional extensions.
 - Share (5’): discuss state shape and trade‑offs.
 
 ## Materials
@@ -29,13 +29,15 @@
 
 - Maintain focus order; use labels and roles where appropriate.
 
+Students do not need DevTools for the core task. Check success from the visible list, blank-input behavior, and a short trace of event → array → render.
+
 ## Assessment
 
 - Rubric: event handling, state correctness, accessibility practices.
 
 ## Formative check and exit prompt
 
-- **Formative check:** Have students add or toggle one todo and trace how the array changes and how the interface updates.
+- **Formative check:** Have students submit one non-empty item, reject blank input, and trace the array change and rendered list.
   **Evidence:** State trace matched to the rendered list.
 - **Exit prompt:** Describe one interaction as a sequence from user action to state change to updated display.
   **Evidence:** Three-step exit note.

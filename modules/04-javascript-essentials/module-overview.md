@@ -30,8 +30,8 @@ Use the [Module 4 student route](https://github.com/STEAM-C3T/digital-proficienc
 
 1. JavaScript basics (20–30): values, variables, arithmetic, functions, and simple conditions.
 2. First interaction (15–20): connect a calculator form to a function with `addEventListener`.
-3. DOM state (20–30): render a list from state; add or update items; preserve focus.
-4. Independent task (10–25): build a small list-based interface (e.g., todo) with a filter.
+3. DOM state (20–30): render a small list from an array, then add items from a form.
+4. Independent task (10–25): build the core add-and-render list; completion, deletion, filters, and persistence are optional extensions.
 5. Share & reflect (5–10): explain event flow and render triggers.
 
 ## Materials & Setup
@@ -40,7 +40,7 @@ Use the [Module 4 student route](https://github.com/STEAM-C3T/digital-proficienc
 
 **Optional:** Browser DevTools console for inspecting errors and values.
 
-**Before class:** Open the calculator example and starter files; check whether DevTools are enabled; prepare a projected console demonstration and expected results.
+**Before class:** Open the calculator example and starter files; prepare a visible-output walkthrough. DevTools may support teacher debugging but are not required for students.
 
 **If restricted:** Students can follow the calculator’s visible output and trace values on paper while the teacher demonstrates the console. If they cannot install an editor, use an approved browser-based editor; if file editing is unavailable, pair on a teacher-prepared device and complete the coding task later.
 
