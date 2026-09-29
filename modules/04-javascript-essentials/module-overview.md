@@ -26,13 +26,15 @@ Use the [Module 4 student route](https://github.com/STEAM-C3T/digital-proficienc
 - Problem solving (5.3)
 - Problem solving (identifying needs and technological responses, 5.2; accessible interaction)
 
-## Sequence & Timing (60–120 min)
+## Sequence & Timing (90–120 min core across two unit plans)
 
 1. JavaScript basics (20–30): values, variables, arithmetic, functions, and simple conditions.
 2. First interaction (15–20): connect a calculator form to a function with `addEventListener`.
 3. DOM state (20–30): render a small list from an array, then add items from a form.
 4. Independent task (10–25): build the core add-and-render list; completion, deletion, filters, and persistence are optional extensions.
 5. Share & reflect (5–10): explain event flow and render triggers.
+
+The 90–120-minute estimate covers the core lesson plans. Completing every tutorial example and workbook activity in class may take 3–4 hours; teachers can assign or select that additional practice. Optional extensions come after the core sequence.
 
 ## Materials & Setup
 
