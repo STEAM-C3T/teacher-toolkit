@@ -6,7 +6,7 @@ Metadata
 
 ## Module Overview
 
-Students represent small datasets visually using Canvas or SVG, focusing on mapping values to positions/sizes and adding clear labels. Visuals are paired with an HTML table for accessibility and verification.
+Students represent a small dataset as a labelled Canvas bar chart, focusing on mapping values to bar heights and pairing the chart with an HTML table. SVG and other chart forms are optional extensions.
 
 ## Student Route
 
@@ -23,13 +23,13 @@ Use the [Module 5 student route](https://github.com/STEAM-C3T/digital-proficienc
 - Digital content creation (3.1, 3.2)
 - Information/data literacy (1.2)
 
-## Sequence & Timing (60–90 min)
+## Sequence & Timing (90 min core across two lessons; optional extensions add 30–60 min)
 
-1. Scaling (15): map data range → pixel range; choose chart type.
-2. Draw & label (20–30): bars/points, axes, titles, units.
-3. Guided practice (10–20): modify dataset and labels; test extremes.
-4. Independent (10–20): build own dataset viz + companion table.
-5. Reflect (5): explain encoding choice and limitations.
+1. Scaling demo (15): map data values to bar heights.
+2. Guided drawing (20): draw and label bars from the sample data.
+3. Dataset practice (30): replace values and labels; check the smallest and largest values.
+4. Independent chart and table (15): add a title, units, and companion HTML table.
+5. Reflect and share (10): explain one design choice and one limitation.
 
 ## Materials & Setup
 

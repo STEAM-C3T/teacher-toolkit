@@ -23,13 +23,13 @@ Use the [Module 6 student route](https://github.com/STEAM-C3T/digital-proficienc
 - Digital content creation (3.1, 3.2)
 - Communication & collaboration (2.1 – critique and share)
 
-## Sequence & Timing (60–120 min)
+## Sequence & Timing (90–120 min core across two or three lessons; optional techniques add 30–60 min)
 
 1. Inspiration & scope (10): choose a small, feasible concept.
-2. Prototype (20–30): build visuals, add controls (range inputs).
-3. Guided critique (10–15): structured feedback; identify one change.
-4. Independent polish (15–30): apply change; document iterations.
-5. Share & reflect (5–10): present intent and adjustments.
+2. Demonstrate and prototype (25–35): draw a basic pattern and connect one or two controls.
+3. Guided accessibility check (20): test keyboard pause/play and contrast.
+4. Independent polish (25–40): apply peer feedback and document two iterations.
+5. Share & reflect (10–15): present intent and adjustments.
 
 ## Materials & Setup
 

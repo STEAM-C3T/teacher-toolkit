@@ -5,16 +5,25 @@
 ### Outcomes
 
 - Combine CSS and JS to generate animated patterns or visuals.
-- Expose 2–3 parameters via inputs to control the output.
+- Expose one labeled parameter through a working control; additional controls are optional.
 - Reflect on iteration choices (colour, randomness, density).
 
-### Lesson flow
+### Two-lesson core flow (90 minutes; add a third lesson if needed)
 
-- Warm‑up (5’): show 2–3 generative examples; discuss parameters.
-- Demo (10’): simple canvas or DOM‑based pattern; add two controls.
-- Guided (15’): wire up inputs to parameters; discuss ranges.
-- Practice (20’): iterate on palette, density, motion.
-- Share (5’): gallery and brief captions.
+**Lesson 1 — Make and control a pattern (45 minutes)**
+
+- Warm‑up (5’): compare two patterns and predict which parameter changed.
+- Demo (10’): draw a simple pattern and connect one labelled slider.
+- Guided practice (20’): improve the control label and range, then test keyboard operation. A second control is optional.
+- Checkpoint (10’): confirm that a control changes the visual and Pause/Play works.
+
+**Lesson 2 — Refine and share (45 minutes)**
+
+- Studio time (25’): create a personal variation and caption.
+- Peer feedback (10’): ask what the artwork communicates and identify one useful change.
+- Revise and reflect (10’): apply a change and save before/after evidence.
+
+An additional 30–60 minutes can be used for transformations, particle systems, or other advanced techniques.
 
 ### Materials
 

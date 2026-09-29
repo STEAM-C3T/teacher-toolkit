@@ -7,13 +7,23 @@
 - Store datasets in arrays; map values to pixel heights.
 - Label axes/values clearly to aid interpretation.
 
-## Lesson flow
+## Two-lesson core flow (45 minutes each)
 
-- Warm‑up (5’): discuss chart types and clarity.
-- Demo (10’): compute max, scale, draw bars.
-- Guided (15’): add value labels and titles.
-- Practice (20’): change dataset and labels.
-- Share (5’): compare readability.
+**Lesson 1 — Build the chart**
+
+- Warm‑up (5’): discuss what a chart helps us compare.
+- Demo (10’): calculate a scale and draw bars from the sample data.
+- Guided practice (20’): add a title, labels, and values; change one sample value.
+- Checkpoint (10’): predict and test how the smallest and largest values affect bar height.
+
+**Lesson 2 — Make the chart readable**
+
+- Recall (5’): explain how values map to bar heights.
+- Independent practice (25’): replace the sample data and labels with 4–8 values.
+- Accessibility check (10’): add a companion HTML table with caption and headers.
+- Share and reflect (5’): name one design choice and one possible limitation.
+
+Optional interaction or alternative chart forms may require another 30–60 minutes.
 
 ## Materials
 

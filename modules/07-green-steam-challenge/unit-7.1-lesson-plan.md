@@ -8,13 +8,28 @@
 - Implement minimal UI, state, and output with vanilla JS.
 - Test with a peer and plan one improvement.
 
-### Lesson flow
+### Core flow: three or four lessons (135–180 minutes)
 
-- Warm‑up (5’): brainstorm local sustainability challenges.
-- Demo (10’): “Green Actions Tracker” (checkboxes + selected-action count); show opt-in persistence and reset, and explain storage failure fallback.
-- Guided (15’): scaffold app state and a render() function.
-- Practice (20’): implement interaction and polish copy.
-- Share (5’): peer test and capture feedback.
+**Lesson 1 — Choose and plan (45 minutes)**
+
+- Warm‑up (5’): brainstorm local sustainability needs.
+- Choose a user and goal (15’): keep the app to one core interaction.
+- Sketch the screen (15’): show the input, action, and feedback.
+- Check scope (10’): agree on a small session-only first version.
+
+**Lesson 2 — Build the core app (45 minutes)**
+
+- Demo (10’): show the session-only Green Actions example and its state/render flow.
+- Guided build (25’): implement the learner's chosen interaction and visible output.
+- Checkpoint (10’): test with keyboard and confirm the core works without storage.
+
+**Lesson 3 — Test and communicate (45 minutes)**
+
+- Peer test (15’): observe a classmate using the app.
+- Iterate (20’): make one improvement and review privacy/accessibility copy.
+- Present and reflect (10’): explain purpose, evidence, and limitations.
+
+Use a fourth lesson for extra studio time or a fuller presentation. Optional persistence or dataset work may need another 30–60 minutes after the core flow.
 
 ### Materials
 

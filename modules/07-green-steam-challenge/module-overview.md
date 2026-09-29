@@ -26,13 +26,13 @@ Framework reference: DigComp 2.2.
 - Problem solving (5.3)
 - Safety (protecting personal data and privacy 4.2; protecting health and well-being 4.3)
 
-## Sequence & Timing (90–180 min)
+## Sequence & Timing (135–180 min core across three or four lessons; optional extensions add 30–60 min)
 
-1. Problem + users (15): define a narrow goal and single core interaction.
-2. Prototype (25–45): semantic UI; state; minimal output; optional persistence.
-3. Peer test (10–20): small usability test; note one actionable change.
-4. Iterate (20–40): apply change; improve copy/accessibility.
-5. Present (10–20): problem, solution, impact, and next steps.
+1. Problem and user (15): define one need and one core interaction.
+2. Plan and prototype (45–60): sketch the screen and build a session-only version.
+3. Peer test (15–20): ask a classmate to try it; note one actionable change.
+4. Iterate and review (45–60): apply the change and check accessibility, privacy, and impact wording.
+5. Present and reflect (15–25): explain the problem, solution, evidence, and limitations.
 
 ## Materials & Setup
 
