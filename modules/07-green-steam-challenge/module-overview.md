@@ -2,7 +2,7 @@
 
 Metadata
 
-- Module: 07 • Version: 2025-11-18 • Audience: Lower/upper secondary
+- Module: 07 • Last updated: 2026-09-29 • Audience: Lower/upper secondary
 
 ## Module Overview
 

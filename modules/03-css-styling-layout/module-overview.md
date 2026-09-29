@@ -2,7 +2,7 @@
 
 Metadata
 
-- Module: 03 • Version: 2025-11-18 • Audience: Lower/upper secondary
+- Module: 03 • Last updated: 2026-09-29 • Audience: Lower/upper secondary
 
 ## Module Overview
 
@@ -21,7 +21,7 @@ Use the [Module 3 student route](https://github.com/STEAM-C3T/digital-proficienc
 ### Alignment (DigComp areas)
 
 - Digital content creation (3.1, 3.2)
-- Safety & inclusion (4.1 accessibility basics)
+- Problem solving (identifying needs and technological responses, 5.2; accessibility adaptations)
 
 ## Sequence & Timing (60–120 min)
 

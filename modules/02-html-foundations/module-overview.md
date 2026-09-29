@@ -2,7 +2,7 @@
 
 Metadata
 
-- Module: 02 • Version: 2025-11-18 • Audience: Lower/upper secondary
+- Module: 02 • Last updated: 2026-09-29 • Audience: Lower/upper secondary
 
 ## Module Overview
 
@@ -23,7 +23,7 @@ Use the [Module 2 student route](https://github.com/STEAM-C3T/digital-proficienc
 
 - Digital content creation (3.1, 3.2)
 - Information/data literacy (1.2)
-- Safety (clear language and transparency, 4.1)
+- Safety (protecting personal data and privacy, 4.2, when collecting or displaying user data)
 
 ## Sequence & Timing (60–120 min)
 

@@ -2,7 +2,7 @@
 
 Metadata
 
-- Module: 04 • Version: 2025-11-18 • Audience: Lower/upper secondary
+- Module: 04 • Last updated: 2026-09-29 • Audience: Lower/upper secondary
 
 ## Module Overview
 
@@ -24,7 +24,7 @@ Use the [Module 4 student route](https://github.com/STEAM-C3T/digital-proficienc
 
 - Digital content creation (3.1, 3.2)
 - Problem solving (5.3)
-- Safety & inclusion (4.1 accessible interaction)
+- Problem solving (identifying needs and technological responses, 5.2; accessible interaction)
 
 ## Sequence & Timing (60–120 min)
 

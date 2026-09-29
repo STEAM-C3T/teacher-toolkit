@@ -2,7 +2,7 @@
 
 Metadata
 
-- Module: 01 • Version: 2025-11-18 • Audience: Upper primary / lower secondary and up
+- Module: 01 • Last updated: 2026-09-29 • Audience: Upper primary / lower secondary and up
 
 ## Module Overview
 
@@ -20,7 +20,7 @@ Students learn what happens when a browser requests a page and build a minimal, 
 - Digital content creation (3.1, 3.2)
 - Information and data literacy (1.1)
 - Problem solving (5.3)
-- Safety basics (privacy-aware linking, 4.1)
+- Safety (protecting personal data and privacy, 4.2)
 
 ## Sequence & Timing (about 110–145 min across 2–3 lessons)
 
