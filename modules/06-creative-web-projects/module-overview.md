@@ -8,6 +8,10 @@ Metadata
 
 Students explore creative coding through a small generative or interactive piece. They expose 1–3 parameters via simple controls, iterate based on feedback, and document their design choices with accessibility in mind (contrast, motion controls).
 
+## Student Route
+
+Use the [Module 6 student route](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/06-creative-web-projects/README.md) to guide students through the generative art unit, interactive poster, peer feedback, and iteration evidence. Peer review is integrated into the project sequence.
+
 ## Learning Outcomes (DigComp 2.2)
 
 - Combines HTML/CSS/JS to create a small interactive or generative artefact.

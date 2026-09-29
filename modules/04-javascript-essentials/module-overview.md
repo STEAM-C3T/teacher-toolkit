@@ -8,6 +8,10 @@ Metadata
 
 Students first learn JavaScript fundamentals, then use events and DOM updates to build a small stateful interface. The sequence moves from values, operators, functions, and conditions to a calculator interaction, then to list state and rendering.
 
+## Student Route
+
+Use the [Module 4 student route](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/04-javascript-essentials/README.md) to guide students from the calculator interaction to the dynamic UI project. Arrays and loops are marked as optional for Unit 4.1.
+
 ## Learning Outcomes (DigComp 2.2)
 
 - Uses variables, simple values, operators, functions, and conditions to solve a small problem.

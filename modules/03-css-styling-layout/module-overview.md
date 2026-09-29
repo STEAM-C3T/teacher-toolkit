@@ -8,6 +8,10 @@ Metadata
 
 Teachers help students establish a visual system (typography, colour, spacing) and implement responsive layouts using Flexbox/Grid. Accessibility (contrast, focus, readable scale) is integral.
 
+## Student Route
+
+Use the [Module 3 student route](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/03-css-styling-layout/README.md) to guide students from CSS fundamentals and the portfolio task to responsive layout practice.
+
 ## Learning Outcomes (DigComp 2.2)
 
 - Applies CSS to create clear hierarchy (type scale), spacing, and colour system.

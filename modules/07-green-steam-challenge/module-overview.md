@@ -8,6 +8,10 @@ Metadata
 
 Students apply their skills to an SDG‑aligned mini‑app with a clear, narrow purpose (one key interaction). They plan user flow, prototype with semantic HTML + JS, consider ethics/privacy (e.g., localStorage), and communicate impact honestly.
 
+## Student Route
+
+Use the [Module 7 student route](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/07-green-steam-challenge/README.md) to guide students from need selection through the mini-app task, peer test, and impact reflection. Persistence is optional; students should use sample data.
+
 ## Learning Outcomes (DigComp 2.2)
 
 Framework reference: DigComp 2.2.

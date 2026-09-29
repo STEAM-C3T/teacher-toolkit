@@ -8,6 +8,10 @@ Metadata
 
 Students represent small datasets visually using Canvas or SVG, focusing on mapping values to positions/sizes and adding clear labels. Visuals are paired with an HTML table for accessibility and verification.
 
+## Student Route
+
+Use the [Module 5 student route](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/05-data-visualization/README.md) to guide students through the single current unit, its chart task, and the accessible table deliverable. External data is optional.
+
 ## Learning Outcomes (DigComp 2.2)
 
 - Maps numeric data to visual encodings (length, position, colour) with labels.

@@ -8,6 +8,10 @@ Metadata
 
 Teachers guide students to structure content semantically and build basic forms and tables with accessibility in mind. The focus is on meaningful markup and programmatic associations (labels ↔ inputs, table headers ↔ cells).
 
+## Student Route
+
+Use the [Module 2 student route](https://github.com/STEAM-C3T/digital-proficiency-kit/blob/main/modules/02-html-foundations/README.md) as the learner-facing sequence. It links Unit 2.1 content practice to Unit 2.2 forms and tables, then to the integrated survey task.
+
 ## Learning Outcomes (DigComp 2.2)
 
 - Structures content with headings, lists, links, figures/images and captions.
