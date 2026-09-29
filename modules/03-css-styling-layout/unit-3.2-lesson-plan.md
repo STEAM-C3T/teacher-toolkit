@@ -10,9 +10,9 @@
 ## Lesson flow
 
 - Recap (5’): Grid vs Flexbox roles.
-- Demo (10’): define grid; add breakpoints at 640px & 1024px.
-- Guided (15’): implement a responsive card grid.
-- Practice (20’): refine layout and spacing; test on narrow view.
+- Demo (10’): define a one-column mobile grid and add one breakpoint for two columns.
+- Guided (15’): implement the core responsive card grid and resize the browser across the breakpoint.
+- Practice (20’): refine layout and spacing; test for overflow and visible focus. Add a second breakpoint for three columns as an optional extension.
 - Share (5’): quick device viewport check.
 
 ## Materials
@@ -31,7 +31,7 @@
 
 ## Assessment
 
-- Rubric: responsive behavior at breakpoints; content readability.
+- Rubric: responsive behavior at the core breakpoint and content readability; a second breakpoint is extension evidence.
 
 ## Formative check and exit prompt
 
